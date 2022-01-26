@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2? family= Luxurious+Script & family= Roboto+Condensed:ital,wght@0,300;0,400;1,300;1,400 & display=swap");
+header {
+  background-color: gray;
+  color: white;
+  display: flex;
+  justify-content: space-between; }
+  header ul {
+    display: flex; }
+    header ul li {
+      list-style: none;
+      margin: 18px; }
+
+.contenedor {
+  background-color: #4F86C6;
+  font-family: "Luxurious Script", cursive; }
+  .contenedor .titulo {
+    color: #17301C; }
+    .contenedor .titulo:hover {
+      color: #4FB0C6; }
+  .contenedor:hover {
+    background-color: coral; }
